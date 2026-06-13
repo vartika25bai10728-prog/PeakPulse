@@ -262,7 +262,8 @@ Delivery of:
 ![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
 
 
-![Logo]<img width="1028" height="1018" alt="Screenshot 2026-06-13 205019" src="https://github.com/user-attachments/assets/6c4243d8-46f2-4cb0-9a4f-04b230614593" />
+**Logo**
+<img width="1028" height="1018" alt="Screenshot 2026-06-13 205019" src="https://github.com/user-attachments/assets/6c4243d8-46f2-4cb0-9a4f-04b230614593" />
 
 
 
