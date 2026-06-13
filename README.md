@@ -36,13 +36,13 @@ Inspired by the human nervous system, the website uses brain-inspired event-driv
 Unlike traditional AI systems that continuously process all incoming data, PeakPulse follows a neuromorphic approach.
 
 Traditional Approach
-```mermaid
+```
     Camera Feed --> Process Every Frame--> High Power Consumption
 ```
 
 Neuromorphic Approach
 
-```mermaid
+```
     A[Environmental Event] --> B[Event Detection]
     B --> C[Spiking Neural Network]
     C --> D[Navigation Decision]
