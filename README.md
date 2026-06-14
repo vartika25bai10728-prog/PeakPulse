@@ -277,4 +277,4 @@ Delivery of:
 
 **Team Name:** Dual Core
 
-**Team Members:** Vartika Tomar(Team Leader) and Vedant Tomar
+**Team Members:** Vartika Tomar(Team Leader) and Vedant Tomar 
